@@ -18,7 +18,8 @@ This repository contains technical reports, methodologies, enumeration results, 
 
 | Machine | Topics |
 |---|---|
-| [Recruit](Recruit/) | Reconnaissance, Information Disclosure, SQL Injection |
+| [Recruit](Recruit/) | Web Enumeration, Information Disclosure, Local File Disclosure, SQL Injection |
+| [Support](Support/) | Web Enumeration, Authentication Bypass, IDOR, Path Traversal, OS Command Injection, RCE |
 
 ## Methodology
 
